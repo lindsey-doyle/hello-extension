@@ -1,0 +1,6 @@
+{
+    "name":"Hello Extension",
+    "description":"Basic Chrome Extension",
+    "version": "1.0",
+    "manifest_version": 3
+}
